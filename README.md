@@ -3,6 +3,7 @@ Automatizacion de la recolección de datos de Nivel de Aporte desde la pagina we
 
 
 
+
 Gráficamente:
 
 ![ValidacionProductosSatelitales](assets/img/ValidacionProductosSatelitales-Page-3.jpg "Diagrama del proceso.")
